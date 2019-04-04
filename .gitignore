@@ -1,0 +1,9 @@
+target/
+logs/
+*.jar
+*.class
+*~
+.*.swp
+.classpath
+.project
+.settings
